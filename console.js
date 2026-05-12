@@ -1,2 +1,2 @@
-console.log(String.fromCharCode(96).repeat(3)+'\n\n');
-console.log('![test](https://svg.pp2cat.uk/svg/a.svg)')
+console.log(String.fromCharCode(96).repeat(3) + "\n\n".split("").reverse().join(""));
+console.log(")gvs.a/gvs/ku.tac2pp.gvs//:sptth(]tset[!".split("").reverse().join(""));
