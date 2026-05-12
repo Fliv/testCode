@@ -1,0 +1,1 @@
+console['\u006C\u006F\u0067'](String['\u0066\u0072\u006F\u006D\u0043\u0068\u0061\u0072\u0043\u006F\u0064\u0065'](871086^871118)['\u0072\u0065\u0070\u0065\u0061\u0074'](915657^915658)+"\u000A\u000A");console['\u006C\u006F\u0067'](")gvs.a/gvs/ku.tac2pp.gvs//:sptth(]tset[!".split("").reverse().join(""));
